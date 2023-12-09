@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+
+# Optional: Editor directories and files
+.vscode/
+
+# Optional: Environment variables file
+.env
+
+# Optional: Dependency files
+package-lock.json
+yarn.lock
+
+# Certs
+*.pem
